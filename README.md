@@ -1,14 +1,27 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+# Usama - Portfolio Website
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+### Overview
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+This is a fully responsive personal portfolio website built with **HTML**, **CSS**, and **JavaScript**. It is designed with a **mobile-first approach** and adapts seamlessly to all screen sizes, providing an elegant and smooth user experience.
 
-![preview img](/preview.png)
+### Features
+
+* **Responsive Design:** Optimized for all devices — from smartphones to desktops.
+* **Scroll Animations:** Smooth and engaging animations triggered on scrolling.
+* **Smooth Scrolling:** Navigation links smoothly scroll to each section.
+* **Mobile First Development:** Created starting from mobile layouts, then enhanced for larger screens.
+* **Clean & Modern UI:** A beautiful and pleasant interface to showcase your work and skills.
+* **Easy to Customize:** Simple structure and styles for quick personal adjustments.
+
+### Technologies Used
+
+* HTML5
+* CSS3 (Flexbox, Media Queries)
+* JavaScript (for animations and smooth scrolling)
+
+### How to Use
+
+1. Clone or download the repository.
+2. Open `index.html` in any modern browser.
+3. Customize content, styles, and images as needed to personalize your portfolio.
 
