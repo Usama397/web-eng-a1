@@ -484,3 +484,58 @@ img {
     width: 450px;
   }
 }
+
+    .custom-table {
+        border-collapse: separate;
+        border-spacing: 0;
+        width: 100%;
+        border: 2px solid #ddd;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        margin-top: 1rem;
+    }
+
+    .custom-table th, .custom-table td {
+        padding: 1rem;
+        text-align: center;
+    }
+
+    .custom-table thead {
+        font-weight: bold;
+        color: white;
+    }
+
+    .table-pink th {
+        background-color: #e91e63;
+    }
+
+    .table-yellow td {
+        background-color: #ffc107;
+    }
+
+    .table-green th {
+        background-color: #4caf50;
+    }
+
+    .table-orange td {
+        background-color: #ff9800;
+    }
+
+    .custom-table tr:not(:last-child) td {
+        border-bottom: 1px solid #eee;
+    }
+
+    .contact-grid-2col {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    align-items: start;
+}
+
+.contact__info {
+    background-color: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
